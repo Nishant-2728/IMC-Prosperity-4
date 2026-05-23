@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏆 IMC Prosperity 4 Rankings
+# 🏆 IMC Prosperity 4 
 
 <img src="https://img.shields.io/badge/IMC-Prosperity%204-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Competitive-success?style=for-the-badge" />
