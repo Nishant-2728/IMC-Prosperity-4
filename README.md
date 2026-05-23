@@ -1,6 +1,7 @@
-<div align="center">
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a9530781-7975-4cd7-80e5-999edd48f642" /><div align="center">
 
 # 🏆 IMC Prosperity 4 
+
 
 
 <br>
