@@ -51,7 +51,7 @@ class Trader:
             flow_signal = max(-1.5, min(1.5, smoothed_flow * 0.05))
             fair += flow_signal
         return self._trade_generic(state, "TOMATOES", fair)
-   def _trade_generic(self, state: TradingState, product: str,
+    def _trade_generic(self, state: TradingState, product: str,
                        fair: float) -> list[Order]:
         od = state.order_depths[product]
         pos = state.position.get(product, 0)
