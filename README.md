@@ -11,5 +11,7 @@
 | `NoobPlayers` | `#2583` | `#586` | `#2020` | `#2467` | `53,761` |
 
 </div>
-
+<div align="center">
+  <img src="Screenshot%20(480).png" width="900"/>
+</div>
 ---
